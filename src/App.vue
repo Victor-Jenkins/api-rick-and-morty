@@ -1,7 +1,6 @@
 <template>
  <div class="container">
   <h1 style="color: orangered ;">Rick y Morty</h1>
-  <h2 style="color: orangered;"> Página creada por Victor Bañó con NodeJS, VUECLI, CSS, Javascript, HTML</h2>
   <FilterByStatus />
   <FilterByName />
   <ListCharacters />
